@@ -1,0 +1,46 @@
+#test{
+  font-family: 'Libre Baskerville', serif;
+  color: orange;
+}
+  body{
+    text-align: center;
+    background-color: #C0C0C0;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  .cursor {
+    background-color: green;
+  }
+  
+  .done {
+    color: gray;
+  }
+  
+  #typing {
+   font-size: 45px;
+  }
+  #wpm {
+    font-size: 35px;
+  }
+  #all {
+    border: 5px solid #343a40;
+    background-color: orange;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    right: 25%;
+    display: none;
+  }
+  .hidden {
+    display: none;
+  }
+  #start-game{
+    position: absolute; /* or absolute */
+    top: 90%;
+    left: 35%;
+    right: 25%;
+    width: 400px;
+    margin-top: auto;
+
+  }
+
+  

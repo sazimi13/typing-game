@@ -1,0 +1,23 @@
+#test{
+    font-family: 'Libre Baskerville', serif;
+    color: orange;
+}
+#btn {
+    width: 200px;
+    margin-left: 17.5%;
+}
+body {
+    background-color: #C0C0C0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+th {
+    width: 30%;
+}
+.colon {
+    width: 2%;
+}
+input{
+    width: 100%;
+}

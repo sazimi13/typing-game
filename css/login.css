@@ -1,0 +1,55 @@
+
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: #C0C0C0;
+}
+#test{
+    font-family: 'Libre Baskerville', serif;
+    color: orange;
+}
+
+.login-container {
+    max-width: 500px;
+    border-radius: 25px;
+    background-color: orange;
+    padding: 30px 30px;
+    min-width: 400px;
+    width: 10%;
+    position: fixed; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.login-title {
+    color: white;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 40px;
+    font-size: 34px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+
+}
+
+.input-group label {
+    color: white;
+    font-weight: lighter;
+    font-size: 24px;
+    margin-bottom: 7px;
+}
+
+.input-group input {
+    font-size: 24px;
+    padding: 1.5px 5px;
+    background-color: hsla(201, 100%, 91%, 0.3);
+    border: 1px #343a40;
+    border-radius: 5px;
+    color: white;
+    font-weight: lighter;
+}
+

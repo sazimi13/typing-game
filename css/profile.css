@@ -1,0 +1,17 @@
+body {
+    background-color: #C0C0C0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+#test{
+    font-family: 'Libre Baskerville', serif;
+    color: orange;
+}
+#butt{
+    margin-left: 17.5%;
+}
+th {
+    width: 30%;
+}
+.colon {
+    width: 2%;
+}
